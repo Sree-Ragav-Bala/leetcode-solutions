@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0229-majority-element-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
