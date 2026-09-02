@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -91,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0066-plus-one) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
