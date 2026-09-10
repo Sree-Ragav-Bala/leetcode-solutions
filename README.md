@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0066-plus-one) |
 | [0229-majority-element-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Dynamic Programming
 |  |
