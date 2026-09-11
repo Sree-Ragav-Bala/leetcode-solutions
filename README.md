@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
