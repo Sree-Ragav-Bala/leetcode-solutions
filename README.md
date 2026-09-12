@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
 |  |
 | ------- |
