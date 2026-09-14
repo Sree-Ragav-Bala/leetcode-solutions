@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0066-plus-one) |
+| [0836-rectangle-overlap](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
