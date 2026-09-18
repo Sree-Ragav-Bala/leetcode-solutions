@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sree-Ragav-Bala/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
 |  |
